@@ -19,6 +19,6 @@ Using frameworks: `Webpack/CLI` | `Electron` | `Vue` | `Conkits`
 - `BananaLauncher` - ModLoaderNew v2(GUI)
 - `EOP-Runtime` - Compress the electron project volume to one-tenth!
 - `Tkinter For Node` - Porting the standard library of Python.
-- `Unit System` - (Just a joke)
+- `Unit System` - (Just a joke) Use numeric quantities with units in JavaScript.
 
 ### Finally, remember to be happy!
