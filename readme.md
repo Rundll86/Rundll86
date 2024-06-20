@@ -12,8 +12,13 @@ Using frameworks: `Webpack/CLI` | `Electron` | `Vue` | `Conkits`
 ---
 
 ### Recommend my projects:
-![](./cod.png)
-![](./eop.png)
-![](./mln.png)
+![Codriver](./cod.png)
+![Electron-Onefile-Packager](./eop.png)
+![ModLoaderNew](./mln.png)
+### Todo-list
+- `BananaLauncher` - ModLoaderNew v2(GUI)
+- `EOP-Runtime` - Compress the electron project volume to one-tenth!
+- `Tkinter For Node` - Porting the standard library of Python.
+- `Unit System` - (Just a joke)
 
 ### Finally, remember to be happy!
