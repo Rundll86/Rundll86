@@ -1,7 +1,7 @@
 # Hello Internet!
 Welcome to my profile!  
 I'm named **FallingShrimp**.  
-Some Two-dimensional enthusiasts.
+Some Two-dimensional enthusiasts.  
 Chinese but good at English.
 
 ---
