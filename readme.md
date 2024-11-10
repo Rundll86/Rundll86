@@ -7,18 +7,8 @@ Chinese but good at English.
 ---
 
 Using language: `Python` | `Type/JavaScript` | `WebFront(H+C)` | `CSharp`  
-Using frameworks: `Webpack/CLI` | `Electron` | `Vue` | `Conkits`
+Using frameworks: `Webpack/CLI` | `Electron` | `Vue`
 
 ---
 
-### Recommend my projects:
-![Codriver](./cod.png)
-![Electron-Onefile-Packager](./eop.png)
-![ModLoaderNew](./mln.png)
-### Todo-list
-- `PlainCraftLauncher` - ModLoaderNew v2(GUI)
-- `EOP-Runtime` - Compress the electron project volume to one-tenth!
-- `Tkinter For Node` - Porting the standard library of Python.
-- `Unit-Number` - (Just a joke) Use numeric quantities with units in JavaScript.
-
-### Finally, remember to be happy!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rundll86)
