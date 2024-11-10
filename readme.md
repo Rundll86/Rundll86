@@ -6,9 +6,6 @@ Chinese but good at English.
 
 ---
 
-Using language: `Python` | `Type/JavaScript` | `WebFront(H+C)` | `CSharp`  
-Using frameworks: `Webpack/CLI` | `Electron` | `Vue`
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rundll86)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Rundll86)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rundll86&show_icons=true&locale=en&layout=compact)
+![labels](https://github-profile-trophy.vercel.app/?username=Rundll86&title=-PullRequest,-Experience,-Reviews)
