@@ -2,7 +2,6 @@
 Hi there.  
 I'm named **FallingShrimp**.  
 Some *2-dimensional* enthusiasts.  
-Chinese but good at English.  
 **Full stack and desktop game developer**
 
 ![labels](https://github-profile-trophy.vercel.app/?username=Rundll86&title=-PullRequest,-Experience,-Reviews)
