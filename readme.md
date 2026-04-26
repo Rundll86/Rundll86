@@ -20,15 +20,15 @@ And my featuring language **FallingAnchor**... Its journey is still long.
 ## Frameworks
 
 ```plain
-· Webpack/tsup    - Frontend
-· Hono.js/Flask   - Backend
-· Tauri           - Cross-platform framework
-· Unity/Godot.NET - Game engine
+· Vue(Webpack/tsup)    - Frontend
+· Hono.js/Flask        - Backend
+· Tauri                - Cross-platform apps
+· Unity/Godot.NET      - Game engine
 
 And my featuring...
 
-· Nine9           - Reactive UI framework
-· NDDrone-SDK     - Fly the mind.
+· Nine9                - Reactive UI framework
+· NDDrone-SDK          - Fly the mind.
 ```
 
 ## Falling... Maybe
